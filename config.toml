@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://resume.acharyashailesh.com.np/'
 languageCode = 'en-us'
 title = 'Resume'
 theme = 'uilite'
