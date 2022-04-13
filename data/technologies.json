@@ -1,0 +1,38 @@
+{
+  "title": "Technologies",
+  "services": [
+    {
+      "iconfam": "fas",
+      "icon": "server",
+      "title": "Server",
+      "description": "I have a sound knowledge of Linux and Windows servers, including cloud platforms like AWS and Azure."
+    },
+    {
+      "iconfam": "fas",
+      "icon": "network-wired",
+      "title": "Networking",
+      "description": "Networking has always been one of my favourite topics, and I enjoy playing with IP addresses and routing."
+    },
+    {
+      "icon": "python",
+      "title": "Python",
+      "description": "Python is very useful for automation and data science. I learnt python to understand machine learning better."
+    },
+    {
+      "icon": "linux",
+      "title": "Linux",
+      "description": "I use Linux, I'm familiar with firewalls, ports, services with systemd, and have used it to build a server."
+    },
+    {
+      "icon": "git",
+      "title": "Git",
+      "description": "I use Git to manage my projects, and I'm familiar with the concepts of branching, merging, rebasing, etc..."
+    },
+    {
+      "iconfam": "fas",
+      "icon": "user-secret",
+      "title": "CyberSEC",
+      "description": "I have the essential cybersecurity knowledge and skills to protect the systems from outsiders and cyber-attacks."
+    }
+  ]
+}

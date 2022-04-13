@@ -1,0 +1,20 @@
+{
+  "title": "Education",
+  "education": [
+    {
+      "timeperiod": "2003-2013",
+      "company": "New Standard English school",
+      "position": "School level cource"
+    },
+    {
+      "timeperiod": "2014-2015",
+      "company": "Glorious College",
+      "position": "Intermediate of Science"
+    },
+    {
+      "timeperiod": "2016-2020",
+      "company": "Butwal Multiple Campus",
+      "position": "Bachelor of Computer Science and Information Technology"
+    }
+  ]
+}

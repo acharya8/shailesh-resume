@@ -1,0 +1,35 @@
+{
+  "title": "Skills",
+  "projects": [
+    {
+      "iconfam": "fas",
+      "icon": "chart-line",
+      "title": "Analyze",
+      "description": "Being an SEO professional, I need to properly analyse keywords, trends, backlinks, and my competitors."
+    },
+    {
+      
+      "icon": "blog",
+      "title": "Blog",
+      "description": "I enjoy creating content and writing blog. My blog posts provide valuable information and are free to read."
+    },
+    {
+      "icon": "code",
+      "title": "Code",
+      "description": "I create projects, Develop apps and websites via coding. So I know programming languages like python, java, c, c++."
+    },
+    {
+      "iconfam": "fas",
+      "icon": "laptop-code",
+      "title": "Develop",
+      "description": "I know how to develop good UI/UX apps and websites. I have worked on many website development projects."
+    },
+    {
+      
+      "icon": "edit",
+      "title": "Edit",
+      "description": "I possess essential editing skills like photo editing, video editing, document editing, and content editing."
+    }
+    
+  ]
+}

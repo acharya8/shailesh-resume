@@ -1,0 +1,23 @@
+{
+  "title": "Certifications",
+  "certifications": [
+    {
+     
+      "icon": "google",
+      "title": "Google",
+      "description": "Digital marketing and IT support"
+    },
+    {
+      "iconfam": "fas",
+      "icon": "shield-alt",
+      "title": "Fortinet",
+      "description": "Network Security"
+    },
+    {
+      "iconfam": "fab",
+      "icon": "microsoft",
+      "title": "Microsoft",
+      "description": "Azure cloud platform"
+    }
+  ]
+}

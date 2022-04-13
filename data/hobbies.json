@@ -1,0 +1,29 @@
+{
+  "title": "Hobbies",
+  "hobbies": [
+    {
+      "iconfam": "fas",
+      "icon": "desktop",
+      "title": "PC Building",
+      "description": "I enjoy building PCs, especially gaming PCs."
+    },
+    {
+      "iconfam": "fa",
+      "icon": "file-code",
+      "title": "Designing",
+      "description": "I am passionate about designing UI/UX."
+    },
+    {
+      "iconfam": "fa",
+      "icon": "gamepad",
+      "title": "Gaming",
+      "description": "I play a casual game with my friends."
+    },
+    {
+      "iconfam": "fas",
+      "icon": "hiking",
+      "title": "Trekking",
+      "description": "I absolutely go trekking and exploring new places."
+    }
+  ]
+}

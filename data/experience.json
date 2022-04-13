@@ -1,0 +1,25 @@
+{
+  "title": "Experience",
+  "experience": [
+    {
+      "timeperiod": "November 2018",
+      "company": "CSIT Association of Nepal",
+      "position": "ITSEC Awareness Bootcamp"
+    },
+    {
+      "timeperiod": "December 2019",
+      "company": "Networking Nepal",
+      "position": "CCNA Bootcamp"
+    },
+    {
+      "timeperiod": "January 2020",
+      "company": "WorldLink Communications",
+      "position": "Tech Support Department"
+    },
+    {
+      "timeperiod": "March 2021",
+      "company": "Open Knowledge Nepal",
+      "position": "Open Data Expedition"
+    }
+  ]
+}
